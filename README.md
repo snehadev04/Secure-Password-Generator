@@ -23,7 +23,7 @@ Follow the prompts and specify the number of letters, numbers, and symbols you w
 ## How it Works
 The script generates a random password based on the user's input for the number of letters, numbers, and symbols. It uses a combination of lowercase and uppercase letters, numbers, and symbols to create a strong and secure password.
 
-## Contributing
+## Contributions: 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 
